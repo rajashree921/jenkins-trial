@@ -1,2 +1,3 @@
 #!/usr/bin/env python3
-print('within python file')
+def test_001():
+  assert True
